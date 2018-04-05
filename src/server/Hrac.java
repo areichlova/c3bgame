@@ -2,7 +2,6 @@ package server;
 import java.util.Calendar;
 import java.util.HashMap;
 public class Hrac {
-
 	private static int delay = 10000; //MILISECOND
 	private static HashMap<Integer, Hrac> pool = new HashMap<Integer, Hrac>();
 	
